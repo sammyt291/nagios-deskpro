@@ -52,4 +52,4 @@ $("td", ".commentOdd,.commentEven").each(function(idx){
 });
 
 //Victory message!
-console.log("Linked", count, "tickets!!!");
+console.log("Linked", count, "tickets!");
